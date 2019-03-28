@@ -1,0 +1,83 @@
+ PATH  FOUND 
+Scale factor = 1.000000
+ 0) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 1) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 2) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 3) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 4) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 5) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 6) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 7) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 8) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+ 9) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+10) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+11) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+12) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+13) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+14) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+15) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+16) 0.00,0.00
+ PATH  FOUND 
+Scale factor = 1.000000
+17) 0.00,302.50
+    0.00,615.00
+    0.00,1240.80
+
+Object origin:
+0.000000 620.400000
+
+Eagle Command:
+set wire_bend 2;
+change layer bStop;
+set width 0.000500;
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 6.204000) (R 0.000000 6.204000);
+poly (R 0.000000 3.179000) (R 0.000000 0.054000) (R 0.000000 -6.204000) (R 0.000000 3.179000);
+
