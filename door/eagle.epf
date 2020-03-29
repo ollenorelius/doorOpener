@@ -357,6 +357,7 @@ UsedLibrary="C:/Users/Olle/Documents/EAGLE/libraries/Panasonic - EEE-FK1C101P.lb
 UsedLibrary="C:/Users/Olle/Documents/EAGLE/libraries/olle.lbr"
 UsedLibrary="C:/Users/Olle/Documents/eagle/libraries/SparkFun-Eagle-Libraries-master/SparkFun-DiscreteSemi.lbr"
 UsedLibrary="C:/Users/Olle/Documents/eagle/projects/btboard-pcb/prototype1.lbr"
+UsedLibrary="C:/Users/Olle/Documents/eagle/libraries/SparkFun-Eagle-Libraries-master/SparkFun-Switches.lbr"
 
 [Win_1]
 Type="Control Panel"
