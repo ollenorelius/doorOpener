@@ -3,7 +3,7 @@
 <eagle version="9.2.2">
 <drawing>
 <settings>
-<setting alwaysvectorfont="no"/>
+<setting alwaysvectorfont="yes"/>
 <setting verticaltext="up"/>
 </settings>
 <grid distance="10" unitdist="mil" unit="mm" style="lines" multiple="2" display="no" altdistance="5" altunitdist="mil" altunit="mil"/>
@@ -166,8 +166,8 @@
 <hole x="3.556" y="46.482" drill="3"/>
 <rectangle x1="14.2" y1="45.3" x2="24.4" y2="50" layer="39"/>
 <rectangle x1="18.7" y1="43.3" x2="21.4" y2="45.3" layer="39"/>
-<text x="14.6" y="2" size="1.778" layer="1">Door opener board v1.0
-Olle Norelius 2019</text>
+<text x="14.6" y="2" size="1.778" layer="1" distance="39">Door opener board v1.1
+Olle Norelius 2020</text>
 <text x="13.584" y="10.4" size="1.778" layer="25" rot="R90">Battery +</text>
 <text x="22.03" y="10.4" size="1.778" layer="25" rot="R90">Battery -</text>
 <hole x="46.736" y="3.556" drill="3"/>

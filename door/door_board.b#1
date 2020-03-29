@@ -2668,7 +2668,8 @@ design rules under a new name.</description>
 <wire x1="5.7912" y1="37.6428" x2="5.7912" y2="39.7764" width="0.1524" layer="1"/>
 <wire x1="5.7912" y1="39.7764" x2="5.776" y2="39.794" width="0.1524" layer="1"/>
 <wire x1="5.7912" y1="37.6428" x2="5.776" y2="37.592" width="0.1524" layer="1"/>
-<wire x1="5.7912" y1="37.4904" x2="5.7912" y2="34.8996" width="0.1524" layer="1"/>
+<wire x1="5.7912" y1="37.4904" x2="5.7912" y2="37.338" width="0.1524" layer="1"/>
+<wire x1="5.7912" y1="37.338" x2="5.7912" y2="34.8996" width="0.1524" layer="1"/>
 <wire x1="5.7912" y1="34.8996" x2="5.776" y2="34.798" width="0.1524" layer="1"/>
 <wire x1="5.7912" y1="37.4904" x2="5.776" y2="37.592" width="0.1524" layer="1"/>
 <wire x1="26.0604" y1="33.8328" x2="26.0604" y2="35.814" width="0.1524" layer="1"/>
@@ -2681,7 +2682,12 @@ design rules under a new name.</description>
 <wire x1="26.0604" y1="35.814" x2="26.162" y2="35.814" width="0.1524" layer="1"/>
 <wire x1="5.7912" y1="34.7472" x2="5.776" y2="34.798" width="0.1524" layer="1"/>
 <contactref element="U$1" pad="P$26"/>
-<wire x1="20.1168" y1="27.8892" x2="16.05" y2="35.704" width="0" layer="19" extent="1-1"/>
+<wire x1="16.05" y1="35.704" x2="16.05" y2="37.132" width="0.508" layer="1"/>
+<wire x1="16.05" y1="37.132" x2="16.256" y2="37.338" width="0.508" layer="1"/>
+<via x="16.256" y="37.338" extent="1-16" drill="0.35"/>
+<wire x1="16.256" y1="37.338" x2="8.128" y2="37.338" width="0.508" layer="16"/>
+<via x="8.128" y="37.338" extent="1-16" drill="0.35"/>
+<wire x1="8.128" y1="37.338" x2="5.7912" y2="37.338" width="0.508" layer="1"/>
 </signal>
 <signal name="ADFSGSDFH">
 <contactref element="R5" pad="1"/>

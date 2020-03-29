@@ -172,6 +172,9 @@ Olle Norelius 2019</text>
 <text x="22.03" y="10.4" size="1.778" layer="25" rot="R90">Battery -</text>
 <hole x="46.736" y="3.556" drill="3"/>
 <text x="34.798" y="34.036" size="1.27" layer="25" ratio="7" rot="R180">1 -&gt; 5</text>
+<text x="4.318" y="29.464" size="1.778" layer="25" rot="R90">TX</text>
+<text x="2.286" y="24.13" size="1.778" layer="25" rot="R90">RX</text>
+<text x="1.016" y="22.098" size="1.778" layer="25" rot="R270">GND</text>
 </plain>
 <libraries>
 <library name="rcl" urn="urn:adsk.eagle:library:334">
